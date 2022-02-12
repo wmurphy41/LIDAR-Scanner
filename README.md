@@ -8,7 +8,7 @@
 
 
  #### Background Information
-
+- Design for turntable derived from this [hand-cranked table](https://bbprojects.technology/collections/stl-fusion-360-source-files/products/fully-3d-printable-turntable-files)
 
 ## Files
 Content of the project folders:
@@ -25,11 +25,19 @@ Content of the project folders:
 Instructions for building the printed components, electronics, software, and assembly of the 3D Scanner
 
 #### Printed Components
-Print all components in PLA.
+Print all components in PLA.  Don't use supports, rafts, etc for the gears, bearing, or connectors.
+Print the plumbing at 45 deg for better structural integrity.
 
-| Component  | Count | Color |
-| ---------- | ----: | ----- |
-| xxxx       |     1 | black |
+| Component       | Count | Color |
+| --------------- | ----: | ----- |
+| big gear        |     1 | white |
+| leg             |     3 | white |
+| motor base      |     1 | white |
+| motor mount     |     1 | white |
+| plate           |     1 | black |
+| shaft-connector |     1 | white |
+| slide bearing   |     1 | white |
+| small gear      |     1 | white |
 
 
 #### Electronics
