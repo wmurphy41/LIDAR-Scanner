@@ -4,11 +4,11 @@
  ## Project Overview
 
  #### References and Attributions
+ - Design for turntable derived from this [hand-cranked table](https://bbprojects.technology/collections/stl-fusion-360-source-files/products/fully-3d-printable-turntable-files)
 
 
 
  #### Background Information
-- Design for turntable derived from this [hand-cranked table](https://bbprojects.technology/collections/stl-fusion-360-source-files/products/fully-3d-printable-turntable-files)
 
 ## Files
 Content of the project folders:
